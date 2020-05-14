@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Manage Orders</string>
+    <string name="Slogan">We transport goods to customers faster than you think</string>
+    <string name="password">password</string>
+    <string name="log_in">log In</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_home">Home</string>
+    <string name="menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="enter_menu_name">Enter Menu Name</string>
+    <string name="upload">Upload</string>
+    <string name="select">Select</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="image_selected">Image Selected</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="item_deleted">Item Deleted</string>
+    <string name="enter_food_name">Enter Name</string>
+    <string name="enter_food_description">Enter Description</string>
+    <string name="enter_food_price">Enter Price</string>
+    <string name="enter_food_discount">Enter Discount</string>
+    <string name="title_activity_tracking_order">TrackingOrder</string>
+</resources>
